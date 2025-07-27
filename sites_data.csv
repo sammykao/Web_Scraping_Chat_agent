@@ -1,0 +1,13 @@
+domain,site,description
+lan
+gchain,docs.langchain.com,LangChain documentation and tutorials
+fastapi,fastapi.tiangolo.com,FastAPI framework documentation
+python,docs.python.org,Python official documentation
+django,docs.djangoproject.com,Django web framework documentation
+flask,flask.palletsprojects.com,Flask web framework documentation
+react,react.dev,React JavaScript library documentation
+vue,vuejs.org,Vue.js framework documentation
+nodejs,nodejs.org,Node.js runtime documentation
+docker,docs.docker.com,Docker containerization documentation
+kubernetes,kubernetes.io,Kubernetes orchestration documentation
+

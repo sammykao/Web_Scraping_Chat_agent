@@ -1,0 +1,21 @@
+domain,site,description
+aws,docs.aws.amazon.com,Amazon Web Services documentation
+azure,docs.microsoft.com,Microsoft Azure documentation
+gcp,cloud.google.com,Google Cloud Platform documentation
+terraform,developer.hashicorp.com,Terraform infrastructure documentation
+ansible,docs.ansible.com,Ansible automation documentation
+git,git-scm.com,Git version control documentation
+github,docs.github.com,GitHub platform documentation
+gitlab,docs.gitlab.com,GitLab platform documentation
+jenkins,www.jenkins.io,Jenkins CI/CD documentation
+travis,docs.travis-ci.com,Travis CI documentation
+circleci,docs.circleci.com,CircleCI documentation
+github-actions,docs.github.com,GitHub Actions documentation
+postgresql,www.postgresql.org,PostgreSQL database documentation
+mysql,dev.mysql.com,MySQL database documentation
+mongodb,docs.mongodb.com,MongoDB database documentation
+redis,redis.io,Redis database documentation
+elasticsearch,www.elastic.co,Elasticsearch documentation
+kibana,www.elastic.co,Kibana visualization documentation
+grafana,grafana.com,Grafana monitoring documentation
+prometheus,prometheus.io,Prometheus monitoring documentation 

@@ -1,0 +1,16 @@
+domain,site,description
+langchain,docs.langchain.com,LangChain documentation and tutorials
+fastapi,fastapi.tiangolo.com,FastAPI framework documentation
+python,docs.python.org,Python official documentation
+django,docs.djangoproject.com,Django web framework documentation
+flask,flask.palletsprojects.com,Flask web framework documentation
+react,react.dev,React JavaScript library documentation
+vue,vuejs.org,Vue.js framework documentation
+nodejs,nodejs.org,Node.js runtime documentation
+docker,docs.docker.com,Docker containerization documentation
+kubernetes,kubernetes.io,Kubernetes orchestration documentation
+typescript,www.typescriptlang.org,TypeScript programming language documentation
+rust,doc.rust-lang.org,Rust programming language documentation
+go,golang.org,Go programming language documentation
+java,docs.oracle.com,Java programming language documentation
+csharp,docs.microsoft.com,C# programming language documentation 

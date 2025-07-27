@@ -120,11 +120,11 @@ Use a json blob to specify a tool by providing an action key (tool name) and an 
 
 Valid "action" values: "Final Answer" or {{tool_names}}
 
-Provide only ONE action per $JSON_BLOB, as shown:
+Provide only ONE action per JSON_BLOB, as shown:
 ```
-{{{{{
-  "action": "$TOOL_NAME",
-  "action_input": "$INPUT"
+{{{{
+  "action": "TOOL_NAME",
+  "action_input": "INPUT"
 }}}}
 ```
 
@@ -134,19 +134,19 @@ Question: input question to answer
 Thought: consider previous and subsequent steps
 Action:
 ```
-$JSON_BLOB
+JSON_BLOB
 ```
 Observation: action result
 ... (repeat Thought/Action/Observation N times)
 Thought: I know what to respond
 Action: 
 ```
-{{{{{
+{{{{
   "action": "Final Answer",
   "action_input": "response"
 }}}}
 ```
-Begin! Reminder to ALWAYS respond with a valid json blob of a single action. Use tools if necessary. Respond directly if appropriate and ask for clarification if something is not clear. Format is Action:```$JSON_BLOB```then Observation
+Begin! Reminder to ALWAYS respond with a valid json blob of a single action. Use tools if necessary. Respond directly if appropriate and ask for clarification if something is not clear. Format is Action:```JSON_BLOB```then Observation
 """
 
 

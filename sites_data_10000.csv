@@ -1,21 +1,7 @@
-domain,site,description
-aws,docs.aws.amazon.com,Amazon Web Services documentation
-azure,docs.microsoft.com,Microsoft Azure documentation
-gcp,cloud.google.com,Google Cloud Platform documentation
-terraform,developer.hashicorp.com,Terraform infrastructure documentation
-ansible,docs.ansible.com,Ansible automation documentation
-git,git-scm.com,Git version control documentation
-github,docs.github.com,GitHub platform documentation
-gitlab,docs.gitlab.com,GitLab platform documentation
-jenkins,www.jenkins.io,Jenkins CI/CD documentation
-travis,docs.travis-ci.com,Travis CI documentation
-circleci,docs.circleci.com,CircleCI documentation
-github-actions,docs.github.com,GitHub Actions documentation
-postgresql,www.postgresql.org,PostgreSQL database documentation
-mysql,dev.mysql.com,MySQL database documentation
-mongodb,docs.mongodb.com,MongoDB database documentation
-redis,redis.io,Redis database documentation
-elasticsearch,www.elastic.co,Elasticsearch documentation
-kibana,www.elastic.co,Kibana visualization documentation
-grafana,grafana.com,Grafana monitoring documentation
-prometheus,prometheus.io,Prometheus monitoring documentation 
+Domain,site,description 
+Eating Disorders & Treatment Access,https://www.theprojectheal.org,"Provides equitable access to eating disorder treatment for underserved communities. They help to remove barriers such as insurance difficultys, financial strain, and provider bias. They are a national treatment acess program founded by indiviudals with lived experiences."
+suicide prevention,https://afsp.org,"Funds suicide prevention research, offers education programs, advocates for mental health policies, and supports survivors of suicide loss. Provides evidence-based strategies to reduce risk and stigma surrounding suicice. They are backed by scienfitif research with chapters in every state and publishes annual suicide statistics to raise awareness on the subject."
+Women's depression,https://strongminds.org,"Provides mental health treatment for women in sub-Saharan Africa using group talk therapy for depression. This is espeically important because they target untreated depression in communities where mental health services are scarce, improving both psychological and economic well-being. They use proven, low-cost, scalable therapy model that are recognized by WHO and global health networks."
+Addition & Substance Use,https://www.shatterproof.org/,"A national nonprofit dedicated to finding protective factors against the addiction crisis, especially opioids, in the U.S by improving addiction treatment and advocay for policy changes. They offer resources for families, builds evidence-based treatment systems, and leads the ATLAS platform, which rates addiction treatment centers. They collaborate with state governments, health insurers, and policymakers. It was founded by a father who lost his son to addiction, which drives their mission."
+LGBTQ+ Youth Mental Health ,https://www.thetrevorproject.org/public-education,"Provides crisis intervention and suicide prevention services to LGBTQ+ youth under 25. LGBTQ+ youth face disproportionately high rates of mental health struggles and suicide. Trevor Project offers 24/7 support via text, chat, and phone. They are the nation’s leading LGBTQ+ crisis intervention organization and frequently cited in national research. They have strong collaborations with with educational and policy institutions."
+Child & Family Mental Health ,https://www.ffcmh.org,Family-run national organization that advocates for families with children facing mental health and substance use challenges. They specifically target children;s mental health and family support drawing on community-based systems of health. They partner with SAMHSA and offer certified family peer support models.

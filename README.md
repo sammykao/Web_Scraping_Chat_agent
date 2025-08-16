@@ -311,7 +311,3 @@ playwright install chromium
    - Increase Docker memory limits
    - Reduce max content sizes
    - Use basic search depth
-
-## 📝 License
-
-[Your License Here]
